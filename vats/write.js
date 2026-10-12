@@ -1,7 +1,7 @@
 
 const AFTER_LETTER_DELAY = 50;
-const AFTER_VERSE_DELAY = 300;
-const AFTER_STANZA_DELAY = 1000;
+const AFTER_VERSE_DELAY = 3000;
+const AFTER_STANZA_DELAY = 10000;
 
 function main() {
   displayMenu('', true);
